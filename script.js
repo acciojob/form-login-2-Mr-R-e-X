@@ -7,7 +7,7 @@ function alertDtls(event) {
     contactDtls.push(input.value);
   });
   window.alert(
-    `First Name: ${contactDtls[0]} Last Name: ${contactDtls[1]} Phone Number: ${contactDtls[2]} Email Id: ${contactDtls[3]}`
+    `First Name: ${contactDtls[0]} Last Name: ${contactDtls[1]} Phone Number: ${contactDtls[2]} Email ID: ${contactDtls[3]}`
   );
 }
 
